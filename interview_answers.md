@@ -3,7 +3,11 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What are the main differences between a stateful and a functional component?
 
+    Stateful components are keeping track of changing data, while stateless components print out what is given to them via props, or they always render the same thing.
+
 2. When does a componentWillMount function be called? What about a componentWillUpdate?
+
+     ComponentWillMount is called before the render function. ComponentWillUpdate is called right before the component renders and right after shouldComponentUpdate.
 
 3. Define stateful logic.
 
