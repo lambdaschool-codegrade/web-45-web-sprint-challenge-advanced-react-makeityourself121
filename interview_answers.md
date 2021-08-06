@@ -11,4 +11,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. Define stateful logic.
 
+    Stateful logic is any code that uses state, but in the case of hooks I would define it as a behaviour created with the use of one or more hooks. It's like a perk that you're adding to a component
+
 4. What are the three step of creating a successful test? What is done in each phase?
+
+    Your test cases should work in three phases: First, you set some stuff up (“Arrange”) Then, you do something (“Act”) Then, you make sure that what you expected to happen, actually happened.
